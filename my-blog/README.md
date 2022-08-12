@@ -1,4 +1,4 @@
-#Getting satrted with react router v6
+# Getting satrted with react router v6
 
 this is just a simple react router and REST API project.
 
